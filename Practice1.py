@@ -1,3 +1,4 @@
+# This program will display the name, age, title, race, hometown, and biography of the character Pinocchio.
 name = "Pinocchio"
 age = 1  # He's a puppet newly brought to life!
 title = "The Living Puppet"
